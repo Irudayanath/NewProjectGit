@@ -18,5 +18,6 @@ public static void main(String args[])
 public void run() {
 	// TODO Auto-generated method stub
 	System.out.println("welcome to threads");
+	System.out.println("Simple Example of Threads");
 }
 }
